@@ -5,6 +5,9 @@ This is a web app that generates personalized travel itineraries using AI (Llama
 
 ## 🚀 Features
 - Multi-day itinerary generation
+- Budget Estimation
+- Food recommendation
+- Local travel transporation 
 - Visual suggestions via images
 - Sleek dark theme
 
